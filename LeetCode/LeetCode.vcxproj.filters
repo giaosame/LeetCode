@@ -33,5 +33,14 @@
     <ClCompile Include="problem5.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="problem7.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="problem6.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="problem8.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
