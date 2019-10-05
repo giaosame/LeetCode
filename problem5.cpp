@@ -57,10 +57,10 @@ public:
 						dp[i][j] = true;
 					else
 						dp[i][j] = dp[i + 1][j - 1];
-
-					if (dp[i][j] && j - i + 1 > max_palind.size())
-						max_palind = s.substr(i, j - i + 1);
 				}
+
+				if (dp[i][j] && j - i + 1 > max_palind.size())
+					max_palind = s.substr(i, j - i + 1);
 			}
 		}
 

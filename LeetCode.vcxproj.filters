@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem12.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem15.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem16.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem17.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem19.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem20.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem21.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem22.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem10.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem13.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem14.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem18.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem23.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem24.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem26.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem27.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem29.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem28.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem25.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem30.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem31.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem33.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem34.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem35.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="utils.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

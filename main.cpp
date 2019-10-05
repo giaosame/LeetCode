@@ -9,48 +9,48 @@
 #include <array>
 using namespace std;
 
-class Solution {
+void test(int x = 0, int y = 1, string s = "123", char b = 'b');
+
+class Base
+{
+	int val;
+};
+
+class Derive : public Base
+{
 public:
-	string dayOfTheWeek(int day, int month, int year) {
-		string days[7] = { "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" };
-		int months[12] = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
-		int first_day = 5;
-		int total_days = 0;
-		for (int i = 1971; i < year; i++)
-		{
-			if ((i % 100 == 0 && i % 400 == 0) || (i % 100 != 0 && i % 4 == 0))
-				total_days++;
-			total_days += 365;
-		}
-
-		for (int i = 1; i < month; i++)
-		{
-			total_days += months[i - 1];
-		}
-
-		if ((year % 100 == 0 && year % 400 == 0) || (year % 100 != 0 && year % 4 == 0))
-		{
-			if (month > 2)
-				total_days++;
-			cout << "add Feb" << endl;
-		}
-
-		total_days += day;
-
-		return days[(total_days + first_day - 1) % 7];
+	void test()
+	{
+		cout << "Derived member function" << endl;
 	}
 };
 
+struct Triangle
+{
+	// The indices of the Vertices that make up this triangle.
+	// The indices correspond to the std::vector of Vertices stored in the Polygon
+	// which stores this Triangle
+	Triangle(unsigned int idx1, unsigned int idx2, unsigned int idx3)
+		: m_indices{ idx1, idx2, idx3 }
+	{}
+	unsigned int m_indices[3];
+};
 
 int main()
 {
-	int numRows = 2;
-	const string s = "123";
-	vector<vector<char>> zigzag(numRows, vector<char>(s.size()));
+	Triangle t(0, 2, 3);
+	cout << t.m_indices[2] << " and " << t.m_indices[1];
 	
- 	Solution solution = Solution();
-	cout << solution.dayOfTheWeek(31, 8, 2019) << endl;
-	
+
 	system("pause");
 	return 0;
+}
+
+
+void test(int x, int y, string s, char b)
+{
+	cout << "x = " << x << endl;
+	cout << "y = " << y << endl;
+	cout << "s = " << s << endl;
+	cout << "b = " << b << endl;
 }
