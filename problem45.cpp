@@ -1,4 +1,5 @@
 // 45. Jump Game II
+#include <algorithm>
 #include <vector>
 using namespace std;
 
