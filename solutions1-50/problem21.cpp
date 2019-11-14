@@ -1,15 +1,5 @@
 // 21. Merge Two Sorted Lists
-// Merge two sorted linked lists and return it as a new list. 
-// The new list should be made by splicing together the nodes of the first two lists.
-// 
-// Definition for singly-linked list:
-// Define in the utils.h
-// struct ListNode {
-//    int val;
-//    ListNode *next;
-//    ListNode(int x) : val(x), next(nullptr) {}
-// };
-#include "utils.h"
+#include "../utils.h"
 
 class Solution {
 public:
