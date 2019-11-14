@@ -1,11 +1,6 @@
 // 2. Add Two Numbers
 #include <iostream>
-
-struct ListNode {
-	int val;
-	ListNode *next;
-	ListNode(int x) : val(x), next(NULL) {}
-};
+#include "../utils.h"
 
 class Solution {
 public:

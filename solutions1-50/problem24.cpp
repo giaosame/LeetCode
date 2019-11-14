@@ -1,14 +1,5 @@
 // 24. Swap Nodes in Pairs
-// Given a linked list, swap every two adjacent nodes and return its head.
-// You may not modify the values in the list's nodes, only nodes itself may be changed.
-// 
-// Definition for singly-linked list.
-// struct ListNode {
-//	 int val;
-//	 ListNode *next;
-//	 ListNode(int x) : val(x), next(NULL) {}
-// };
-#include "utils.h"
+#include "../utils.h"
  
 class Solution {
 public:

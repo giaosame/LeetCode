@@ -1,5 +1,4 @@
 // 9. Palindrome Number
-// Determine whether an integer is a palindrome. 
 class Solution {
 public:
 	bool isPalindrome(int x) {
