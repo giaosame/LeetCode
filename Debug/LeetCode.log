@@ -1,55 +1,235 @@
-﻿  main.cpp
-c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xmemory0(881): error C2280: 'std::unique_ptr<Phone,std::default_delete<_Ty>>::unique_ptr(const std::unique_ptr<_Ty,std::default_delete<_Ty>> &)': attempting to reference a deleted function
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem11.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem11.cpp, problem11.cpp, solutions1-50\problem11.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem12.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem12.cpp, problem12.cpp, solutions1-50\problem12.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem13.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem13.cpp, problem13.cpp, solutions1-50\problem13.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem14.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem14.cpp, problem14.cpp, solutions1-50\problem14.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem15.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem15.cpp, problem15.cpp, solutions1-50\problem15.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem16.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem16.cpp, problem16.cpp, solutions1-50\problem16.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem17.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem17.cpp, problem17.cpp, solutions1-50\problem17.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem18.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem18.cpp, problem18.cpp, solutions1-50\problem18.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem19.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem19.cpp, problem19.cpp, solutions1-50\problem19.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem20.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem20.cpp, problem20.cpp, solutions1-50\problem20.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem21.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem21.cpp, problem21.cpp, solutions1-50\problem21.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem22.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem22.cpp, problem22.cpp, solutions1-50\problem22.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem23.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem23.cpp, problem23.cpp, solutions1-50\problem23.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem24.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem24.cpp, problem24.cpp, solutions1-50\problem24.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem25.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem25.cpp, problem25.cpp, solutions1-50\problem25.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem26.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem26.cpp, problem26.cpp, solutions1-50\problem26.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem27.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem27.cpp, problem27.cpp, solutions1-50\problem27.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem28.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem28.cpp, problem28.cpp, solutions1-50\problem28.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem29.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem29.cpp, problem29.cpp, solutions1-50\problem29.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem30.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem30.cpp, problem30.cpp, solutions1-50\problem30.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem31.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem31.cpp, problem31.cpp, solutions1-50\problem31.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem32.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem32.cpp, problem32.cpp, solutions1-50\problem32.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem33.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem33.cpp, problem33.cpp, solutions1-50\problem33.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem34.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem34.cpp, problem34.cpp, solutions1-50\problem34.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem35.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem35.cpp, problem35.cpp, solutions1-50\problem35.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem36.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem36.cpp, problem36.cpp, solutions1-50\problem36.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem37.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem37.cpp, problem37.cpp, solutions1-50\problem37.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem38.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem38.cpp, problem38.cpp, solutions1-50\problem38.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem39.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem39.cpp, problem39.cpp, solutions1-50\problem39.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem40.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem40.cpp, problem40.cpp, solutions1-50\problem40.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem41.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem41.cpp, problem41.cpp, solutions1-50\problem41.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem42.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem42.cpp, problem42.cpp, solutions1-50\problem42.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem43.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem43.cpp, problem43.cpp, solutions1-50\problem43.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem44.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem44.cpp, problem44.cpp, solutions1-50\problem44.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem45.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem45.cpp, problem45.cpp, solutions1-50\problem45.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem46.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem46.cpp, problem46.cpp, solutions1-50\problem46.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem47.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem47.cpp, problem47.cpp, solutions1-50\problem47.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem48.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem48.cpp, problem48.cpp, solutions1-50\problem48.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem49.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem49.cpp, problem49.cpp, solutions1-50\problem49.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of problem50.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 1-50\problem50.cpp, problem50.cpp, solutions1-50\problem50.cpp.
+  problem11.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem11.cpp': No such file or directory
+  problem12.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem12.cpp': No such file or directory
+  problem13.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem13.cpp': No such file or directory
+  problem14.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem14.cpp': No such file or directory
+  problem15.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem15.cpp': No such file or directory
+  problem16.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem16.cpp': No such file or directory
+  problem17.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem17.cpp': No such file or directory
+  problem18.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem18.cpp': No such file or directory
+  problem19.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem19.cpp': No such file or directory
+  problem20.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem20.cpp': No such file or directory
+  problem21.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem21.cpp': No such file or directory
+  problem22.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem22.cpp': No such file or directory
+  problem23.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem23.cpp': No such file or directory
+  problem24.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem24.cpp': No such file or directory
+  problem25.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem25.cpp': No such file or directory
+  problem26.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem26.cpp': No such file or directory
+  problem27.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem27.cpp': No such file or directory
+  problem28.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem28.cpp': No such file or directory
+  problem29.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem29.cpp': No such file or directory
+  problem30.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem30.cpp': No such file or directory
+  Generating Code...
+  Compiling...
+  problem31.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem31.cpp': No such file or directory
+  problem32.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem32.cpp': No such file or directory
+  problem33.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem33.cpp': No such file or directory
+  problem34.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem34.cpp': No such file or directory
+  problem35.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem35.cpp': No such file or directory
+  problem36.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem36.cpp': No such file or directory
+  problem37.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem37.cpp': No such file or directory
+  problem38.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem38.cpp': No such file or directory
+  problem39.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem39.cpp': No such file or directory
+  problem40.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem40.cpp': No such file or directory
+  problem41.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem41.cpp': No such file or directory
+  problem42.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem42.cpp': No such file or directory
+  problem43.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem43.cpp': No such file or directory
+  problem44.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem44.cpp': No such file or directory
+  problem45.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem45.cpp': No such file or directory
+  problem46.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem46.cpp': No such file or directory
+  problem47.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem47.cpp': No such file or directory
+  problem48.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem48.cpp': No such file or directory
+  problem49.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem49.cpp': No such file or directory
+  problem50.cpp
+c1xx : fatal error C1083: Cannot open source file: '1-50\problem50.cpp': No such file or directory
+  Generating Code...
+  Compiling...
+  main.cpp
+c:\users\giaosame\source\repos\leetcode\leetcode\main.cpp(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\giaosame\source\repos\leetcode\leetcode\main.cpp(46): error C3867: 'std::vector<int,std::allocator<_Ty>>::size': non-standard syntax; use '&' to create a pointer to member
           with
           [
-              _Ty=Phone
+              _Ty=int
           ]
-  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\memory(2337): note: see declaration of 'std::unique_ptr<Phone,std::default_delete<_Ty>>::unique_ptr'
+c:\users\giaosame\source\repos\leetcode\leetcode\main.cpp(46): error C2296: '-': illegal, left operand has type 'unsigned int (__thiscall std::vector<int,std::allocator<_Ty>>::* )(void) noexcept const'
           with
           [
-              _Ty=Phone
+              _Ty=int
           ]
-  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\memory(2337): note: 'std::unique_ptr<Phone,std::default_delete<_Ty>>::unique_ptr(const std::unique_ptr<_Ty,std::default_delete<_Ty>> &)': function was explicitly deleted
-          with
-          [
-              _Ty=Phone
-          ]
-  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vector(900): note: see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,const _Ty&>(_Alloc &,_Objty *const ,const _Ty &)' being compiled
-          with
-          [
-              _Alloc=std::allocator<std::unique_ptr<Phone,std::default_delete<Phone>>>,
-              _Ty=std::unique_ptr<Phone,std::default_delete<Phone>>,
-              _Objty=std::unique_ptr<Phone,std::default_delete<Phone>>
-          ]
-  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vector(902): note: see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,const _Ty&>(_Alloc &,_Objty *const ,const _Ty &)' being compiled
-          with
-          [
-              _Alloc=std::allocator<std::unique_ptr<Phone,std::default_delete<Phone>>>,
-              _Ty=std::unique_ptr<Phone,std::default_delete<Phone>>,
-              _Objty=std::unique_ptr<Phone,std::default_delete<Phone>>
-          ]
-  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vector(916): note: see reference to function template instantiation 'void std::vector<std::unique_ptr<Phone,std::default_delete<_Ty>>,std::allocator<std::unique_ptr<_Ty,std::default_delete<_Ty>>>>::_Emplace_back_with_unused_capacity<const std::unique_ptr<_Ty,std::default_delete<_Ty>>&>(const std::unique_ptr<_Ty,std::default_delete<_Ty>> &)' being compiled
-          with
-          [
-              _Ty=Phone
-          ]
-  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vector(932): note: see reference to function template instantiation 'void std::vector<std::unique_ptr<Phone,std::default_delete<_Ty>>,std::allocator<std::unique_ptr<_Ty,std::default_delete<_Ty>>>>::emplace_back<const std::unique_ptr<_Ty,std::default_delete<_Ty>>&>(const std::unique_ptr<_Ty,std::default_delete<_Ty>> &)' being compiled
-          with
-          [
-              _Ty=Phone
-          ]
-  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vector(931): note: while compiling class template member function 'void std::vector<std::unique_ptr<Phone,std::default_delete<_Ty>>,std::allocator<std::unique_ptr<_Ty,std::default_delete<_Ty>>>>::push_back(const std::unique_ptr<_Ty,std::default_delete<_Ty>> &)'
-          with
-          [
-              _Ty=Phone
-          ]
-  c:\users\giaosame\source\repos\leetcode\leetcode\main.cpp(72): note: see reference to function template instantiation 'void std::vector<std::unique_ptr<Phone,std::default_delete<_Ty>>,std::allocator<std::unique_ptr<_Ty,std::default_delete<_Ty>>>>::push_back(const std::unique_ptr<_Ty,std::default_delete<_Ty>> &)' being compiled
-          with
-          [
-              _Ty=Phone
-          ]
-  c:\users\giaosame\source\repos\leetcode\leetcode\main.cpp(72): note: see reference to class template instantiation 'std::vector<std::unique_ptr<Phone,std::default_delete<_Ty>>,std::allocator<std::unique_ptr<_Ty,std::default_delete<_Ty>>>>' being compiled
-          with
-          [
-              _Ty=Phone
-          ]
+  problem11.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem11.cpp': No such file or directory
+  problem12.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem12.cpp': No such file or directory
+  problem13.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem13.cpp': No such file or directory
+  problem14.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem14.cpp': No such file or directory
+  problem15.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem15.cpp': No such file or directory
+  problem16.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem16.cpp': No such file or directory
+  problem17.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem17.cpp': No such file or directory
+  problem18.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem18.cpp': No such file or directory
+  problem19.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem19.cpp': No such file or directory
+  problem20.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem20.cpp': No such file or directory
+  problem21.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem21.cpp': No such file or directory
+  problem22.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem22.cpp': No such file or directory
+  problem23.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem23.cpp': No such file or directory
+  problem24.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem24.cpp': No such file or directory
+  problem25.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem25.cpp': No such file or directory
+  problem26.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem26.cpp': No such file or directory
+  problem27.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem27.cpp': No such file or directory
+  problem28.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem28.cpp': No such file or directory
+  problem29.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem29.cpp': No such file or directory
+  Generating Code...
+  Compiling...
+  problem30.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem30.cpp': No such file or directory
+  problem31.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem31.cpp': No such file or directory
+  problem32.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem32.cpp': No such file or directory
+  problem33.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem33.cpp': No such file or directory
+  problem34.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem34.cpp': No such file or directory
+  problem35.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem35.cpp': No such file or directory
+  problem36.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem36.cpp': No such file or directory
+  problem37.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem37.cpp': No such file or directory
+  problem38.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem38.cpp': No such file or directory
+  problem39.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem39.cpp': No such file or directory
+  problem40.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem40.cpp': No such file or directory
+  problem41.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem41.cpp': No such file or directory
+  problem42.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem42.cpp': No such file or directory
+  problem43.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem43.cpp': No such file or directory
+  problem44.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem44.cpp': No such file or directory
+  problem45.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem45.cpp': No such file or directory
+  problem46.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem46.cpp': No such file or directory
+  problem47.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem47.cpp': No such file or directory
+  problem48.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem48.cpp': No such file or directory
+  problem49.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem49.cpp': No such file or directory
+  Generating Code...
+  Compiling...
+  problem50.cpp
+c1xx : fatal error C1083: Cannot open source file: 'problem50.cpp': No such file or directory
+  problem56.cpp
+c:\users\giaosame\source\repos\leetcode\leetcode\problem56.cpp(14): warning C4018: '<': signed/unsigned mismatch
+  problem1.cpp
+c:\users\giaosame\source\repos\leetcode\leetcode\solutions1-50\problem1.cpp(13): warning C4018: '<': signed/unsigned mismatch
+  problem19.cpp
+c:\users\giaosame\source\repos\leetcode\leetcode\solutions1-50\problem19.cpp(11): fatal error C1083: Cannot open include file: 'utils.h': No such file or directory
+  problem2.cpp
+  problem21.cpp
+c:\users\giaosame\source\repos\leetcode\leetcode\solutions1-50\problem21.cpp(12): fatal error C1083: Cannot open include file: 'utils.h': No such file or directory
+  problem22.cpp
+  problem23.cpp
+c:\users\giaosame\source\repos\leetcode\leetcode\solutions1-50\problem23.cpp(12): fatal error C1083: Cannot open include file: 'utils.h': No such file or directory
+  problem25.cpp
+c:\users\giaosame\source\repos\leetcode\leetcode\solutions1-50\problem25.cpp(12): fatal error C1083: Cannot open include file: 'utils.h': No such file or directory
+  Generating Code...
