@@ -14,6 +14,7 @@
 *.userprefs
 
 *.vcxproj*
+main.cpp
 
 # Mono auto generated files
 mono_crash.*
