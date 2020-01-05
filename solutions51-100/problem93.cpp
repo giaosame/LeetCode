@@ -3,18 +3,20 @@
 #include <vector>
 using namespace std;
 
-class Solution 
+// We don't need to judge the size of string "s" in the isValid function.
+// Because all inputs have the size from 1 to 3 set by the function restoreIpAddresses' 3 for loops.
+class Solution
 {
 private:
 	bool isValid(string s)
 	{
-		if (s.empty() || s.size() > 3 || stoi(s) > 255 || (s[0] == '0' && s.size() > 1))
+		if (stoi(s) > 255 || (s[0] == '0' && s.size() > 1))
 			return false;
 		return true;
 	}
 
 public:
-	vector<string> restoreIpAddresses(string s) 
+	vector<string> restoreIpAddresses(string s)
 	{
 		vector<string> ips;
 		if (s.size() < 4 || s.size() > 12)
