@@ -39,7 +39,7 @@ public:
 
 // A better solution:
 // Uses 2 pointers, fast and slow, to locate the middle node in the list.
-// Avoids half an iteration of the nodes in the list.
+// Avoids an extra iteration of the nodes in the list.
 class Solution2
 {
 private:
