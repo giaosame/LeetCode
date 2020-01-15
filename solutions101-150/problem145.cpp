@@ -60,7 +60,7 @@ public:
 
 
 // The better iteration with topological dependencies:
-class Solution 
+class Solution3
 {
 public:
 	vector<int> postorderTraversal(TreeNode* root) 
