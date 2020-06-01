@@ -2,14 +2,18 @@
 #include <unordered_map>
 using namespace std;
 
-class TwoSum {
+class TwoSum 
+{
+private:
 	unordered_map<int, int> map;
+
 public:
 	/**
 	 * @param number: An integer
 	 * @return: nothing
 	 */
-	void add(int number) {
+	void add(int number) 
+	{
 		// write your code here
 		map[number]++;
 	}
@@ -18,7 +22,8 @@ public:
 	 * @param value: An integer
 	 * @return: Find if there exists any pair of numbers which sum is equal to the value.
 	 */
-	bool find(int value) {
+	bool find(int value) 
+	{
 		// write your code here
 		for (auto e : map)
 		{
